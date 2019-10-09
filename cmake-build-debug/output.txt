@@ -1,0 +1,7 @@
+Age 1 is 21
+Age 2 is 45
+Age 3 is 82
+Age 4 is 3
+The sum of ages is : 253
+The average of ages is : 50
+This is a young group
